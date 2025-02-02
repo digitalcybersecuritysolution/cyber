@@ -1,82 +1,123 @@
-# 🛡️ Ali Hasan Syed
+# 👋 Ali Hasan Syed | Cyber Security Engineer
 
-**Cyber Security Engineer** 
-📧 [alisyed.techsecarch@gmail.com]
+## 🛡️ About Me
+Experienced Cyber Security Engineer specializing in cloud security, network security, and incident response. Expert in building robust security architectures, optimizing AWS cloud environments, and ensuring compliance with industry standards (PCI-DSS, NIST CSF, ISO27001). Passionate about cyber resilience and advanced threat hunting.
+
+📧 alisyed.techsecarch@gmail.com
+
+## 🔧 Technology Stack
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- Prisma Cloud
+- AWS CloudTrail
+- AWS CloudWatch
+- AWS Control Tower
+- AWS WAF
+
+### Security Tools & Frameworks
+- Cortex XDR
+- MITRE ATT&CK
+- Palo Alto Strata
+- F5 WAF
+- OWASP Security Tools
+
+### Development & CI/CD
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### Infrastructure
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 🚀 Key Projects
+
+### 🔒 PCI DSS Compliance Implementation
+- Established comprehensive security controls for cardholder data protection
+- Implemented end-to-end compliance framework including:
+  - Network security architecture
+  - Data protection mechanisms
+  - Vulnerability management
+  - Access control implementation
+  - Network monitoring solutions
+- Achieved 15% reduction in security incidents through enhanced encryption and access controls
+- Maintained continuous compliance through annual recertification
+
+### 🛡️ NIST CSF Framework Implementation
+- Successfully implemented all five key functions:
+  - **Identify**: Asset management and risk assessment
+  - **Protect**: Access control and protective technology
+  - **Detect**: Security continuous monitoring
+  - **Respond**: Response planning and communications
+  - **Recover**: Recovery planning and improvements
+
+### ☁️ AWS Security Architecture & Optimization
+- Implemented AWS Well-Architected Framework focusing on:
+  - Security best practices
+  - Reliability improvements
+  - Cost optimization
+  - Performance efficiency
+- Leveraged AWS Trusted Advisor for continuous improvement
+- Integrated security controls across multi-account environments
+
+### 🔐 Prisma Cloud Security Implementation
+- Comprehensive cloud security posture management (CSPM)
+- Implemented:
+  - VM image scanning
+  - Audit policy creation
+  - Cloud workload protection
+  - IAM security controls
+  - Infrastructure as Code (IaC) security
+- Reduced public exposure risks through:
+  - IGW monitoring
+  - VPC security
+  - Public resource management
+  - Enhanced API Gateway security
+
+### 🏗️ Control Tower Migration & Security Enforcement
+- Implemented preventive controls using SCPs
+- Established detective controls via AWS Config
+- Enforced mandatory security policies:
+  - Root user access key restrictions
+  - MFA enforcement
+  - Public access controls
+  - Encryption requirements
+
+### 🛠️ AWS WAF Deployment
+- Implemented Infrastructure as Code (IaC) through GitLab pipelines
+- Established centralized logging architecture:
+  - Kinesis Firehose integration
+  - Elasticsearch implementation
+  - Kibana dashboards
+- Global and local WAF rule management
+
+### 🌐 F5 XC Security Implementation
+- Comprehensive protection against OWASP Top 10
+- Implemented:
+  - WAF controls
+  - API security
+  - Bot protection
+  - ASVS compliance measures
+
+### 🦠 Ransomware Protection Framework
+- Comprehensive protection against attack vectors:
+  - Spear Phishing prevention
+  - Command execution monitoring
+  - Privilege escalation detection
+  - Lateral movement prevention
+  - Data encryption protection
+- Integrated MITRE ATT&CK framework for incident response
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=digitalcybersecuritysolution&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=digitalcybersecuritysolution&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=digitalcybersecuritysolution&theme=dark&hide_border=false&layout=compact)
+
+### 💭 Security Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ---
-
-## About Me
-I am a **Cyber Security Engineer** with extensive experience in cloud security, network security, and incident response. I specialize in building robust security architectures, optimizing AWS cloud security, and ensuring compliance with industry standards like **PCI-DSS**, **NIST CSF**, and **ISO27001**. I am passionate about **cyber resilience** and **advanced threat hunting**.
-
-**Technologies I Use:**
-- **Cloud Security**: AWS, Prisma Cloud, CloudTrail, CloudWatch
-- **Security Frameworks**: NIST CSF, PCI-DSS, AWS Well-Architected Framework
-- **Incident Response**: Cortex XDR, MITRE ATT&CK
-- **Networking**: Palo Alto, VPNs, IDS/IPS
-- **Application Security**: F5 WAF, OWASP, Bot Protection
-
----
-
-## Key Projects
-
-### 🔒 **PCI DSS Compliance**  
-- **Objective**: Build and maintain a secure network for processing cardholder data.
-- **Achievements**:  
-  - Conducted **Self-Assessment** and **Penetration Testing** to ensure compliance.
-  - **Implemented encryption** and strong access controls, reducing security incidents by 15%.
-  - **Annual recertification** to ensure continuous compliance.
-
----
-
-### 🔐 **NIST Cybersecurity Framework (CSF)**  
-- **Objective**: Implement the five key functions: **Identify**, **Protect**, **Detect**, **Respond**, and **Recover**.
-- **Outcome**: Comprehensive risk management to identify vulnerabilities and proactively protect systems.
-
----
-
-### ☁️ **AWS Well-Architected Framework & Trusted Advisor**  
-- **Objective**: Ensure secure, reliable, and optimized AWS cloud environments.
-- **Key Focus Areas**:  
-  - **Cost optimization** and **performance efficiency**.
-  - Enhanced **security practices** using best practices in architecture design.
-
----
-
-### 🔧 **Prisma Cloud Security Posture Management (CSPM)**  
-- **Objective**: Automate security management for cloud workloads and prevent misconfigurations.
-- **Key Activities**:  
-  - Onboard AWS cloud accounts, perform vulnerability scans, and enforce audit policies.
-  - Leverage **Cloud Workload Protection** (Twistlock) for **IAM Security** and **IAC Security**.
-
----
-
-### 🔐 **Control Tower Migration**  
-- **Objective**: Optimize AWS governance using **Service Control Policies** (SCPs) and **AWS Config**.
-- **Key Features**:  
-  - Enforced mandatory security controls, like **MFA for root users**.
-  - Optimized security practices to ensure compliance across multiple AWS accounts.
-
----
-
-### ⚙️ **AWS WAF Deployment**  
-- **Objective**: Deploy AWS WAF to protect applications from threats and attacks.
-- **Technologies**:  
-  - Deployed using **Infrastructure as Code (IaC)** through **GitLab pipelines**.
-  - Centralized **log aggregation** with **Kinesis Firehose** and **Elasticsearch** for threat visualization.
-
----
-
-### 🌐 **F5 XC - WAF - API - Bot Protection**  
-- **Objective**: Secure APIs and web applications against OWASP Top 10 vulnerabilities.
-- **Key Actions**:  
-  - Prevented **Bot attacks**, **Injection vulnerabilities**, and **Cross-Site Scripting** (XSS).
-  - Ensured proper **cryptographic standards** and **session management**.
-
----
-
-### 🦠 **Ransomware Protection**  
-- **Objective**: Enhance defenses against ransomware attacks.
-- **Tactics Implemented**:  
-  - Detected **Spear Phishing**, **Privilege Escalation**, and **Lateral Movement** techniques.
-  - Used the **MITRE ATT&CK framework** for incident response and recovery.
- 
-  
+[![](https://visitcount.itsvg.in/api?id=digitalcybersecuritysolution&icon=0&color=0)](https://visitcount.itsvg.in)
